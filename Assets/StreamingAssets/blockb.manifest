@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 545216333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f501c9d82e8e91afe23c26b26cb1b0d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d27d605e56b00c7d193d3604b99a7461
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f501c9d82e8e91afe23c26b26cb1b0d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/Earthquake/BlockB/BlockB_12_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_24_3.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_24_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_4_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_20_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_21_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_10_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_0_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_17_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_2_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_11_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_15_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_0_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_2_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_7_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_15_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_1_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_24_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_18_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_9_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_14_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB.fbx
+- Assets/Models/Earthquake/BlockB/BlockB_18_2.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_19_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_23_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_3_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_16_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_16_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_22_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_8_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_13_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_1_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_5_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_24_2.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_5_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_20_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_0_3.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_6_1.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_0_2.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_6_0.jpg
+- Assets/Models/Earthquake/BlockB/BlockB_18_0.jpg
+Dependencies: []
